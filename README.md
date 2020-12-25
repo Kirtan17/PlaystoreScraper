@@ -1,6 +1,6 @@
 # PlaystoreScraper
 
-This is a simple playstore scraper created using BeautifulSoup libraray.
+This is a simple playstore scraper created using BeautifulSoup library.
 
 ## Input format
 
