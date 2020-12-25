@@ -6,7 +6,7 @@ This is a simple playstore scraper created using BeautifulSoup library.
 
 The code accepts comma separated app ids 
  
-For example in this URL (https://play.google.com/store/apps/details?id=com.facebook.katana) app id is "com.facebook.katana"
+For example for this URL (https://play.google.com/store/apps/details?id=com.facebook.katana) app id is "com.facebook.katana"
 
 ## Output Format
 
