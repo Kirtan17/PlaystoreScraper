@@ -10,6 +10,6 @@ For example in this URL (https://play.google.com/store/apps/details?id=com.faceb
 
 ## Output Format
 
-The code returns App Name, App Category, Developer Website and App Ratings
+The code returns app name, app category, developer debsite and app ratings
 
 
